@@ -1,0 +1,1060 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "response": {
+    "sections": [
+      {
+        "type": "top_hit",
+        "hits": [
+          {
+            "highlights": [
+
+            ],
+            "index": "artist",
+            "type": "artist",
+            "result": {
+              "_type": "artist",
+              "api_path": "/artists/154390",
+              "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+              "id": 154390,
+              "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+              "index_character": "s",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Скриптонит (Scriptonite)",
+              "slug": "Scriptonite",
+              "url": "https://genius.com/artists/Scriptonite"
+            }
+          },
+          {
+            "highlights": [
+              {
+                "property": "lyrics",
+                "value": "Скрт-скрт, скрт-скрт, в мертвых найках\nСкрт-скрт, скрт-скрт, в белой майке (скрт, скрт!)\nСкрт-скрт, скрт-скрт",
+                "snippet": true,
+                "ranges": [
+                  {
+                    "start": 0,
+                    "end": 3
+                  },
+                  {
+                    "start": 5,
+                    "end": 8
+                  },
+                  {
+                    "start": 11,
+                    "end": 14
+                  },
+                  {
+                    "start": 16,
+                    "end": 19
+                  },
+                  {
+                    "start": 39,
+                    "end": 42
+                  },
+                  {
+                    "start": 44,
+                    "end": 47
+                  },
+                  {
+                    "start": 50,
+                    "end": 53
+                  },
+                  {
+                    "start": 55,
+                    "end": 58
+                  },
+                  {
+                    "start": 76,
+                    "end": 79
+                  },
+                  {
+                    "start": 82,
+                    "end": 85
+                  },
+                  {
+                    "start": 89,
+                    "end": 92
+                  },
+                  {
+                    "start": 94,
+                    "end": 97
+                  },
+                  {
+                    "start": 100,
+                    "end": 103
+                  },
+                  {
+                    "start": 105,
+                    "end": 108
+                  }
+                ]
+              }
+            ],
+            "index": "lyric",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 22,
+              "api_path": "/songs/576069",
+              "full_title": "Black Siemens by Pharaoh",
+              "header_image_thumbnail_url": "https://images.genius.com/439138a4da7654823442c38cde23b592.300x188x1.jpg",
+              "header_image_url": "https://images.genius.com/439138a4da7654823442c38cde23b592.1000x625x1.jpg",
+              "id": 576069,
+              "instrumental": false,
+              "lyrics_owner_id": 794400,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1528227555,
+              "path": "/Pharaoh-black-siemens-lyrics",
+              "pyongs_count": 53,
+              "song_art_image_thumbnail_url": "https://images.rapgenius.com/cb09b263094b338b7c3aa4493cb7ec67.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "concurrents": 2,
+                "pageviews": 534744
+              },
+              "title": "Black Siemens",
+              "title_with_featured": "Black Siemens",
+              "updated_by_human_at": 1535861182,
+              "url": "https://genius.com/Pharaoh-black-siemens-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/101583",
+                "header_image_url": "https://images.genius.com/f8f105acc8ba4f54336fa02446cfc4a6.1000x501x1.jpg",
+                "id": 101583,
+                "image_url": "https://images.genius.com/6050c5b11e4d6ccc1eef2986d3d110c9.915x915x1.jpg",
+                "index_character": "p",
+                "is_meme_verified": true,
+                "is_verified": true,
+                "name": "Pharaoh",
+                "slug": "Pharaoh",
+                "url": "https://genius.com/artists/Pharaoh",
+                "iq": 100
+              }
+            }
+          },
+          {
+            "highlights": [
+              {
+                "property": "lyrics",
+                "value": "Эскобара, плющит\nПод утро мне папа в душу как втащит (скр-скр!)\nМонако, Монако, Монако — заебался, однако (эй!)\nМонако, Монако",
+                "snippet": true,
+                "ranges": [
+                  {
+                    "start": 54,
+                    "end": 57
+                  },
+                  {
+                    "start": 58,
+                    "end": 61
+                  }
+                ]
+              }
+            ],
+            "index": "lyric",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 5,
+              "api_path": "/songs/3734265",
+              "full_title": "Гучи (Gucci) by Тимати (Timati) (Ft. Егор Крид (Egor Kreed))",
+              "header_image_thumbnail_url": "https://images.genius.com/769cd49349e248d1bb7ba83b733faf6d.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/769cd49349e248d1bb7ba83b733faf6d.1000x1000x1.jpg",
+              "id": 3734265,
+              "instrumental": false,
+              "lyrics_owner_id": 150540,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1539472617,
+              "path": "/Timati-gucci-lyrics",
+              "pyongs_count": 3,
+              "song_art_image_thumbnail_url": "https://images.genius.com/769cd49349e248d1bb7ba83b733faf6d.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "concurrents": 6,
+                "pageviews": 683247
+              },
+              "title": "Гучи (Gucci)",
+              "title_with_featured": "Гучи (Gucci) (Ft. Егор Крид (Egor Kreed))",
+              "updated_by_human_at": 1539472617,
+              "url": "https://genius.com/Timati-gucci-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/20382",
+                "header_image_url": "https://images.genius.com/0d173a5749c9306048b19c83f9d119c6.472x620x1.jpg",
+                "id": 20382,
+                "image_url": "https://images.genius.com/afa53951d1a7f2022af75db6e1e4310c.1000x1000x1.jpg",
+                "index_character": "t",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Тимати (Timati)",
+                "slug": "Timati",
+                "url": "https://genius.com/artists/Timati"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "song",
+        "hits": [
+          {
+            "highlights": [
+
+            ],
+            "index": "song",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 1,
+              "api_path": "/songs/3098955",
+              "full_title": "Не забирай меня с пати (Don't take me away from party) by Скриптонит (Scriptonite) (Ft. Надя Дорофеева  (Nadya Dorofeeva))",
+              "header_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.1000x1000x1.jpg",
+              "id": 3098955,
+              "instrumental": false,
+              "lyrics_owner_id": 4323028,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1537652879,
+              "path": "/Scriptonite-dont-take-me-away-from-party-lyrics",
+              "pyongs_count": 7,
+              "song_art_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "concurrents": 4,
+                "pageviews": 374725
+              },
+              "title": "Не забирай меня с пати (Don't take me away from party)",
+              "title_with_featured": "Не забирай меня с пати (Don't take me away from party) (Ft. Надя Дорофеева  (Nadya Dorofeeva))",
+              "updated_by_human_at": 1537652879,
+              "url": "https://genius.com/Scriptonite-dont-take-me-away-from-party-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "song",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 8,
+              "api_path": "/songs/3372520",
+              "full_title": "Положение (Situation) by Скриптонит (Scriptonite)",
+              "header_image_thumbnail_url": "https://images.genius.com/5acae4bb39b2feb86aad8a22ac82a2f2.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/5acae4bb39b2feb86aad8a22ac82a2f2.1000x1000x1.jpg",
+              "id": 3372520,
+              "instrumental": false,
+              "lyrics_owner_id": 4350965,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1539979766,
+              "path": "/Scriptonite-situation-lyrics",
+              "pyongs_count": 16,
+              "song_art_image_thumbnail_url": "https://images.genius.com/5acae4bb39b2feb86aad8a22ac82a2f2.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "concurrents": 5,
+                "pageviews": 337864
+              },
+              "title": "Положение (Situation)",
+              "title_with_featured": "Положение (Situation)",
+              "updated_by_human_at": 1539979766,
+              "url": "https://genius.com/Scriptonite-situation-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "song",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 5,
+              "api_path": "/songs/3098973",
+              "full_title": "Цепи (Chains) by Скриптонит (Scriptonite) (Ft. 104)",
+              "header_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.1000x1000x1.jpg",
+              "id": 3098973,
+              "instrumental": false,
+              "lyrics_owner_id": 4350965,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1539926275,
+              "path": "/Scriptonite-chains-lyrics",
+              "pyongs_count": 15,
+              "song_art_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "concurrents": 5,
+                "pageviews": 501728
+              },
+              "title": "Цепи (Chains)",
+              "title_with_featured": "Цепи (Chains) (Ft. 104)",
+              "updated_by_human_at": 1539926275,
+              "url": "https://genius.com/Scriptonite-chains-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "song",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 17,
+              "api_path": "/songs/3098959",
+              "full_title": "Ага, ну (Yeah, well) by Скриптонит (Scriptonite)",
+              "header_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.1000x1000x1.jpg",
+              "id": 3098959,
+              "instrumental": false,
+              "lyrics_owner_id": 2702228,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1538473113,
+              "path": "/Scriptonite-yeah-well-lyrics",
+              "pyongs_count": 6,
+              "song_art_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "pageviews": 230906
+              },
+              "title": "Ага, ну (Yeah, well)",
+              "title_with_featured": "Ага, ну (Yeah, well)",
+              "updated_by_human_at": 1538473113,
+              "url": "https://genius.com/Scriptonite-yeah-well-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "song",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 2,
+              "api_path": "/songs/3098969",
+              "full_title": "Капли вниз по бедрам (Drops down the tights) by Скриптонит (Scriptonite) (Ft. Niman)",
+              "header_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.1000x1000x1.jpg",
+              "id": 3098969,
+              "instrumental": false,
+              "lyrics_owner_id": 2733319,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1532731886,
+              "path": "/Scriptonite-drops-down-the-tights-lyrics",
+              "pyongs_count": 3,
+              "song_art_image_thumbnail_url": "https://images.genius.com/af55e4d00abfa269138efdf3781a76bb.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "pageviews": 217969
+              },
+              "title": "Капли вниз по бедрам (Drops down the tights)",
+              "title_with_featured": "Капли вниз по бедрам (Drops down the tights) (Ft. Niman)",
+              "updated_by_human_at": 1534126230,
+              "url": "https://genius.com/Scriptonite-drops-down-the-tights-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "lyric",
+        "hits": [
+          {
+            "highlights": [
+              {
+                "property": "lyrics",
+                "value": "Скрт-скрт, скрт-скрт, в мертвых найках\nСкрт-скрт, скрт-скрт, в белой майке (скрт, скрт!)\nСкрт-скрт, скрт-скрт",
+                "snippet": true,
+                "ranges": [
+                  {
+                    "start": 0,
+                    "end": 3
+                  },
+                  {
+                    "start": 5,
+                    "end": 8
+                  },
+                  {
+                    "start": 11,
+                    "end": 14
+                  },
+                  {
+                    "start": 16,
+                    "end": 19
+                  },
+                  {
+                    "start": 39,
+                    "end": 42
+                  },
+                  {
+                    "start": 44,
+                    "end": 47
+                  },
+                  {
+                    "start": 50,
+                    "end": 53
+                  },
+                  {
+                    "start": 55,
+                    "end": 58
+                  },
+                  {
+                    "start": 76,
+                    "end": 79
+                  },
+                  {
+                    "start": 82,
+                    "end": 85
+                  },
+                  {
+                    "start": 89,
+                    "end": 92
+                  },
+                  {
+                    "start": 94,
+                    "end": 97
+                  },
+                  {
+                    "start": 100,
+                    "end": 103
+                  },
+                  {
+                    "start": 105,
+                    "end": 108
+                  }
+                ]
+              }
+            ],
+            "index": "lyric",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 22,
+              "api_path": "/songs/576069",
+              "full_title": "Black Siemens by Pharaoh",
+              "header_image_thumbnail_url": "https://images.genius.com/439138a4da7654823442c38cde23b592.300x188x1.jpg",
+              "header_image_url": "https://images.genius.com/439138a4da7654823442c38cde23b592.1000x625x1.jpg",
+              "id": 576069,
+              "instrumental": false,
+              "lyrics_owner_id": 794400,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1528227555,
+              "path": "/Pharaoh-black-siemens-lyrics",
+              "pyongs_count": 53,
+              "song_art_image_thumbnail_url": "https://images.rapgenius.com/cb09b263094b338b7c3aa4493cb7ec67.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "concurrents": 2,
+                "pageviews": 534744
+              },
+              "title": "Black Siemens",
+              "title_with_featured": "Black Siemens",
+              "updated_by_human_at": 1535861182,
+              "url": "https://genius.com/Pharaoh-black-siemens-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/101583",
+                "header_image_url": "https://images.genius.com/f8f105acc8ba4f54336fa02446cfc4a6.1000x501x1.jpg",
+                "id": 101583,
+                "image_url": "https://images.genius.com/6050c5b11e4d6ccc1eef2986d3d110c9.915x915x1.jpg",
+                "index_character": "p",
+                "is_meme_verified": true,
+                "is_verified": true,
+                "name": "Pharaoh",
+                "slug": "Pharaoh",
+                "url": "https://genius.com/artists/Pharaoh",
+                "iq": 100
+              }
+            }
+          },
+          {
+            "highlights": [
+              {
+                "property": "lyrics",
+                "value": "Эскобара, плющит\nПод утро мне папа в душу как втащит (скр-скр!)\nМонако, Монако, Монако — заебался, однако (эй!)\nМонако, Монако",
+                "snippet": true,
+                "ranges": [
+                  {
+                    "start": 54,
+                    "end": 57
+                  },
+                  {
+                    "start": 58,
+                    "end": 61
+                  }
+                ]
+              }
+            ],
+            "index": "lyric",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 5,
+              "api_path": "/songs/3734265",
+              "full_title": "Гучи (Gucci) by Тимати (Timati) (Ft. Егор Крид (Egor Kreed))",
+              "header_image_thumbnail_url": "https://images.genius.com/769cd49349e248d1bb7ba83b733faf6d.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/769cd49349e248d1bb7ba83b733faf6d.1000x1000x1.jpg",
+              "id": 3734265,
+              "instrumental": false,
+              "lyrics_owner_id": 150540,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1539472617,
+              "path": "/Timati-gucci-lyrics",
+              "pyongs_count": 3,
+              "song_art_image_thumbnail_url": "https://images.genius.com/769cd49349e248d1bb7ba83b733faf6d.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "concurrents": 6,
+                "pageviews": 683247
+              },
+              "title": "Гучи (Gucci)",
+              "title_with_featured": "Гучи (Gucci) (Ft. Егор Крид (Egor Kreed))",
+              "updated_by_human_at": 1539472617,
+              "url": "https://genius.com/Timati-gucci-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/20382",
+                "header_image_url": "https://images.genius.com/0d173a5749c9306048b19c83f9d119c6.472x620x1.jpg",
+                "id": 20382,
+                "image_url": "https://images.genius.com/afa53951d1a7f2022af75db6e1e4310c.1000x1000x1.jpg",
+                "index_character": "t",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Тимати (Timati)",
+                "slug": "Timati",
+                "url": "https://genius.com/artists/Timati"
+              }
+            }
+          },
+          {
+            "highlights": [
+              {
+                "property": "lyrics",
+                "value": "девочка рядом порхала\nРядом порхала\nКогда моя девочка рядом порхала (Скрип-Скрип!)\nТвоя сука такая тупая, что хочется выстрелить (выстрелить",
+                "snippet": true,
+                "ranges": [
+                  {
+                    "start": 69,
+                    "end": 72
+                  },
+                  {
+                    "start": 75,
+                    "end": 78
+                  }
+                ]
+              }
+            ],
+            "index": "lyric",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 8,
+              "api_path": "/songs/2395651",
+              "full_title": "Твоя сука (Your Bitch) by Скриптонит (Scriptonite) (Ft. Pharaoh)",
+              "header_image_thumbnail_url": "https://images.genius.com/5e902503f86ff19733567745078c880e.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/5e902503f86ff19733567745078c880e.640x640x1.jpg",
+              "id": 2395651,
+              "instrumental": false,
+              "lyrics_owner_id": 338252,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1521749093,
+              "path": "/Scriptonite-your-bitch-lyrics",
+              "pyongs_count": 19,
+              "song_art_image_thumbnail_url": "https://images.genius.com/5e902503f86ff19733567745078c880e.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "pageviews": 128729
+              },
+              "title": "Твоя сука (Your Bitch)",
+              "title_with_featured": "Твоя сука (Your Bitch) (Ft. Pharaoh)",
+              "updated_by_human_at": 1522100854,
+              "url": "https://genius.com/Scriptonite-your-bitch-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+              {
+                "property": "lyrics",
+                "value": "На споте мало сил (мало сил)\nНа споте мало сил (скрт-скрт-скрт)\nНа споте мало сил (мало сил)\nНа",
+                "snippet": true,
+                "ranges": [
+                  {
+                    "start": 48,
+                    "end": 51
+                  },
+                  {
+                    "start": 53,
+                    "end": 56
+                  },
+                  {
+                    "start": 58,
+                    "end": 61
+                  }
+                ]
+              }
+            ],
+            "index": "lyric",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 20,
+              "api_path": "/songs/1904293",
+              "full_title": "Skate and Destroy by Jeembo (Ft. Pharaoh)",
+              "header_image_thumbnail_url": "https://images.rapgenius.com/1fd2263f727820d02e793c2726ba1bee.300x300x1.jpg",
+              "header_image_url": "https://images.rapgenius.com/1fd2263f727820d02e793c2726ba1bee.1000x1000x1.jpg",
+              "id": 1904293,
+              "instrumental": false,
+              "lyrics_owner_id": 1667343,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1534779151,
+              "path": "/Jeembo-skate-and-destroy-lyrics",
+              "pyongs_count": 18,
+              "song_art_image_thumbnail_url": "https://images.rapgenius.com/1fd2263f727820d02e793c2726ba1bee.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "pageviews": 72988
+              },
+              "title": "Skate and Destroy",
+              "title_with_featured": "Skate and Destroy (Ft. Pharaoh)",
+              "updated_by_human_at": 1534779151,
+              "url": "https://genius.com/Jeembo-skate-and-destroy-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/106687",
+                "header_image_url": "https://images.genius.com/890842a8693eae245ed09582d2c03aab.960x960x1.jpg",
+                "id": 106687,
+                "image_url": "https://images.genius.com/0fe70b5c346d7c6644086f0da6452797.994x994x1.jpg",
+                "index_character": "j",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Jeembo",
+                "slug": "Jeembo",
+                "url": "https://genius.com/artists/Jeembo",
+                "iq": 100
+              }
+            }
+          },
+          {
+            "highlights": [
+              {
+                "property": "lyrics",
+                "value": "Порнозвезда\nПорнозвезда\nЯ смотрю в окно, я прыгнул в Бимер (скр-скр!)\nЯ не помню, что я снова принял (предложи",
+                "snippet": true,
+                "ranges": [
+                  {
+                    "start": 60,
+                    "end": 63
+                  },
+                  {
+                    "start": 64,
+                    "end": 67
+                  }
+                ]
+              }
+            ],
+            "index": "lyric",
+            "type": "song",
+            "result": {
+              "_type": "song",
+              "annotation_count": 10,
+              "api_path": "/songs/2860896",
+              "full_title": "Порнозвезда (Pornstar) by ЛСП (LSP) & Pharaoh",
+              "header_image_thumbnail_url": "https://images.genius.com/a3c023afe0817dfb377122aa152ea631.300x300x1.jpg",
+              "header_image_url": "https://images.genius.com/a3c023afe0817dfb377122aa152ea631.1000x1000x1.jpg",
+              "id": 2860896,
+              "instrumental": false,
+              "lyrics_owner_id": 1529326,
+              "lyrics_state": "complete",
+              "lyrics_updated_at": 1528582964,
+              "path": "/Lsp-and-pharaoh-pornstar-lyrics",
+              "pyongs_count": 10,
+              "song_art_image_thumbnail_url": "https://images.genius.com/a3c023afe0817dfb377122aa152ea631.300x300x1.jpg",
+              "stats": {
+                "hot": false,
+                "unreviewed_annotations": 0,
+                "pageviews": 64582
+              },
+              "title": "Порнозвезда (Pornstar)",
+              "title_with_featured": "Порнозвезда (Pornstar)",
+              "updated_by_human_at": 1528582965,
+              "url": "https://genius.com/Lsp-and-pharaoh-pornstar-lyrics",
+              "primary_artist": {
+                "_type": "artist",
+                "api_path": "/artists/1027717",
+                "header_image_url": "https://images.genius.com/36f8382cfce6adcff404cdb5227650e4.642x315x1.jpg",
+                "id": 1027717,
+                "image_url": "https://images.genius.com/83f102dcb49eb90000b14517895a4a88.600x600x1.jpg",
+                "index_character": "l",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ЛСП (LSP) & Pharaoh",
+                "slug": "Lsp-and-pharaoh",
+                "url": "https://genius.com/artists/Lsp-and-pharaoh"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "artist",
+        "hits": [
+          {
+            "highlights": [
+
+            ],
+            "index": "artist",
+            "type": "artist",
+            "result": {
+              "_type": "artist",
+              "api_path": "/artists/154390",
+              "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+              "id": 154390,
+              "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+              "index_character": "s",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Скриптонит (Scriptonite)",
+              "slug": "Scriptonite",
+              "url": "https://genius.com/artists/Scriptonite"
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "artist",
+            "type": "artist",
+            "result": {
+              "_type": "artist",
+              "api_path": "/artists/1522444",
+              "header_image_url": "https://images.genius.com/defb931679a444700f9303a9918bb6e0.859x859x1.jpg",
+              "id": 1522444,
+              "image_url": "https://images.genius.com/defb931679a444700f9303a9918bb6e0.859x859x1.jpg",
+              "index_character": "s",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Сергей Сироткин (Sergey Sirotkin)",
+              "slug": "Sergey-sirotkin",
+              "url": "https://genius.com/artists/Sergey-sirotkin"
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "artist",
+            "type": "artist",
+            "result": {
+              "_type": "artist",
+              "api_path": "/artists/1259697",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1539984508",
+              "id": 1259697,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1539984508",
+              "index_character": "s",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Сергей Крылов (Sergei Krylov)",
+              "slug": "Sergei-krylov",
+              "url": "https://genius.com/artists/Sergei-krylov"
+            }
+          }
+        ]
+      },
+      {
+        "type": "album",
+        "hits": [
+          {
+            "highlights": [
+
+            ],
+            "index": "album",
+            "type": "album",
+            "result": {
+              "_type": "album",
+              "api_path": "/albums/309389",
+              "cover_art_thumbnail_url": "https://images.genius.com/22f5412526e658ad8e085e0fe694fbf8.300x300x1.jpg",
+              "cover_art_url": "https://images.genius.com/22f5412526e658ad8e085e0fe694fbf8.617x618x1.jpg",
+              "full_title": "Праздник на улице 36 (PNU36) by Скриптонит (Scriptonite)",
+              "id": 309389,
+              "name": "Праздник на улице 36 (PNU36)",
+              "name_with_artist": "Праздник на улице 36 (PNU36) (artist: Скриптонит (Scriptonite))",
+              "release_date_components": {
+                "year": 2017,
+                "month": 5,
+                "day": 24
+              },
+              "url": "https://genius.com/albums/Scriptonite/36-pnu36",
+              "artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "album",
+            "type": "album",
+            "result": {
+              "_type": "album",
+              "api_path": "/albums/362781",
+              "cover_art_thumbnail_url": "https://images.genius.com/ad00fb85928e48698fb5acefc8c970ac.300x300x1.jpg",
+              "cover_art_url": "https://images.genius.com/ad00fb85928e48698fb5acefc8c970ac.1000x1000x1.jpg",
+              "full_title": "Уроборос: Улица 36 (Ouroboros Pt. I: Street 36) by Скриптонит (Scriptonite)",
+              "id": 362781,
+              "name": "Уроборос: Улица 36 (Ouroboros Pt. I: Street 36)",
+              "name_with_artist": "Уроборос: Улица 36 (Ouroboros Pt. I: Street 36) (artist: Скриптонит (Scriptonite))",
+              "release_date_components": {
+                "year": 2017,
+                "month": 12,
+                "day": 16
+              },
+              "url": "https://genius.com/albums/Scriptonite/36-ouroboros-pt-i-street-36",
+              "artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "album",
+            "type": "album",
+            "result": {
+              "_type": "album",
+              "api_path": "/albums/138577",
+              "cover_art_thumbnail_url": "https://images.genius.com/403759ceb95fa0d3265bdaa980b2e82b.300x300x1.jpg",
+              "cover_art_url": "https://images.genius.com/403759ceb95fa0d3265bdaa980b2e82b.600x600x1.jpg",
+              "full_title": "Дом с нормальными явлениями (DSNY) by Скриптонит (Scriptonite)",
+              "id": 138577,
+              "name": "Дом с нормальными явлениями (DSNY)",
+              "name_with_artist": "Дом с нормальными явлениями (DSNY) (artist: Скриптонит (Scriptonite))",
+              "release_date_components": {
+                "year": 2015,
+                "month": 11,
+                "day": 23
+              },
+              "url": "https://genius.com/albums/Scriptonite/Dsny",
+              "artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "album",
+            "type": "album",
+            "result": {
+              "_type": "album",
+              "api_path": "/albums/387695",
+              "cover_art_thumbnail_url": "https://images.genius.com/6837e0a5e05334a87b6602bc922904e0.300x300x1.jpg",
+              "cover_art_url": "https://images.genius.com/6837e0a5e05334a87b6602bc922904e0.1000x1000x1.jpg",
+              "full_title": "Уроборос: Зеркала (Ouroboros Pt. II: Mirrors) by Скриптонит (Scriptonite)",
+              "id": 387695,
+              "name": "Уроборос: Зеркала (Ouroboros Pt. II: Mirrors)",
+              "name_with_artist": "Уроборос: Зеркала (Ouroboros Pt. II: Mirrors) (artist: Скриптонит (Scriptonite))",
+              "release_date_components": {
+                "year": 2017,
+                "month": 12,
+                "day": 16
+              },
+              "url": "https://genius.com/albums/Scriptonite/Ouroboros-pt-ii-mirrors",
+              "artist": {
+                "_type": "artist",
+                "api_path": "/artists/154390",
+                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Rr24keZiQMyrgnOV838i_iBAtibVfGZs.jpg",
+                "id": 154390,
+                "image_url": "https://images.genius.com/2fe0e54a648b426cb38232cc69c29182.683x683x1.jpg",
+                "index_character": "s",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Скриптонит (Scriptonite)",
+                "slug": "Scriptonite",
+                "url": "https://genius.com/artists/Scriptonite"
+              }
+            }
+          },
+          {
+            "highlights": [
+
+            ],
+            "index": "album",
+            "type": "album",
+            "result": {
+              "_type": "album",
+              "api_path": "/albums/374517",
+              "cover_art_thumbnail_url": "https://images.genius.com/6fa6f071101a68e4e33f3b9c852c3587.300x300x1.jpg",
+              "cover_art_url": "https://images.genius.com/6fa6f071101a68e4e33f3b9c852c3587.335x335x1.jpg",
+              "full_title": "Свой среди чужих, чужой среди своих (At Home Among Strangers) by N`Pans",
+              "id": 374517,
+              "name": "Свой среди чужих, чужой среди своих (At Home Among Strangers)",
+              "name_with_artist": "Свой среди чужих, чужой среди своих (At Home Among Strangers) (artist: N`Pans)",
+              "release_date_components": {
+                "year": 2008,
+                "month": null,
+                "day": null
+              },
+              "url": "https://genius.com/albums/Npans/At-home-among-strangers",
+              "artist": {
+                "_type": "artist",
+                "api_path": "/artists/1230633",
+                "header_image_url": "https://images.genius.com/4a31abf4a190c3ca4f8b4eb85eb0108a.697x697x1.png",
+                "id": 1230633,
+                "image_url": "https://images.genius.com/4a31abf4a190c3ca4f8b4eb85eb0108a.697x697x1.png",
+                "index_character": "n",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "N`Pans",
+                "slug": "Npans",
+                "url": "https://genius.com/artists/Npans"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "hits": [
+
+        ]
+      },
+      {
+        "type": "article",
+        "hits": [
+
+        ]
+      },
+      {
+        "type": "user",
+        "hits": [
+
+        ]
+      }
+    ]
+  }
+}
