@@ -1,0 +1,9 @@
+{
+  "info": {
+    "email": "lol@lol.lol"
+  },
+  "credentials": {
+    "token": "123",
+    "expires_at": "123"
+  }
+}
