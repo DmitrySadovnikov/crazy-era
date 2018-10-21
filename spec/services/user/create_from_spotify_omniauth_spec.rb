@@ -13,7 +13,6 @@ describe User::CreateFromSpotifyOmniauth do
         expect { subject }.to change(User, :count).by(1)
         user = User.last
         expect(user.email).to be
-        expect(user.session_token).to be
         expect(user.spotify_token).to be
       end
     end

@@ -1,9 +1,33 @@
 {
+  "uid": "21fprqz7qlcukshzu755oo47a",
   "info": {
-    "email": "lol@lol.lol"
+    "id": "21fprqz7qlcukshzu755oo47a",
+    "uri": "spotify:user:21fprqz7qlcukshzu755oo47a",
+    "href": "https://api.spotify.com/v1/users/21fprqz7qlcukshzu755oo47a",
+    "type": "user",
+    "email": "emai@gmail.com",
+    "images": [
+      {
+        "url": "https://profile-images.scdn.co/images/userprofile/default/eae25168bf3e15e987a3d639b58af540e4a362a6",
+        "width": null,
+        "height": null
+      }
+    ],
+    "followers": {
+      "href": null,
+      "total": 3
+    },
+    "display_name": "Dmitry  Sadovnikov",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/21fprqz7qlcukshzu755oo47a"
+    }
   },
+  "extra": {},
+  "provider": "spotify",
   "credentials": {
-    "token": "123",
-    "expires_at": "123"
+    "token": "BQAD23S97tQ41cIZurs8BJERTBhHkwjEq_h0NJdeYerYNbOPhsDthTIsEMghNRWXZSkfgzK8DLf17y1Qk6AI0A6u-7feYLAsY32YAIz1q7zwUcqPvp9BfxNQaZoGUYyfB_iWz7RmD4bXyuj3rqzjfot3FgQ-wIjkCB1CSutIqwTGPFsIfiLx9ppCoG3gBmZ-fT2-s9E4MlUkvmxgcSCmFXrt26A",
+    "expires": true,
+    "expires_at": 1540155330,
+    "refresh_token": "AQCRw7vLxh1KwcgvQQd68BJ3Lq3CSuPXFBnwtQe8PL0P-fAsAp-FnfEy1iYFn82-6sqWNJY2SV6thHU4nH7beWlcBuiZchXq4qMYbk9cMMvJzZzuOLpiSNfaMIN9AgWrk60OrQ"
   }
 }

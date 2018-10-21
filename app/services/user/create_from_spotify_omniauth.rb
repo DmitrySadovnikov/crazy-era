@@ -7,8 +7,7 @@ class User::CreateFromSpotifyOmniauth
 
   def call
     ApplicationRecord.transaction do
-      user.spotify_auth  = auth_params
-      user.session_token = SecureRandom.hex
+      user.spotify_auth = auth_params
       user.save!
     end
 

@@ -29,7 +29,7 @@ describe UsersController do
   context 'show' do
     context 'when current user present' do
       subject do
-        get :show, params: params, session: session
+        get :show, params: params
       end
 
       let!(:user) do
@@ -39,7 +39,6 @@ describe UsersController do
       end
 
       let(:params) { { id: user.id } }
-      let(:session) { { user_session_token: user.session_token } }
 
       context 'when no tacks' do
         let(:body_fixture) { file_fixture('api/spotify.com/v1/me/tracks.json').read }

@@ -12,7 +12,6 @@ class UsersController < ActionController::Base
       .new(auth_params: request.env['omniauth.auth'])
       .call
 
-    session['user_session_token'] = user.session_token
     redirect_to user_path(user)
   end
 
@@ -22,16 +21,10 @@ class UsersController < ActionController::Base
 
   def show
     render template: 'users/show',
-           locals:   User::Show.new(user: current_user).call
+           locals:   User::Show.new(user: user).call
   end
 
-  def logout
-    current_user.update!(session_token: nil)
-    session['user_session_token'] = nil
-    redirect_to :back
-  end
-
-  def current_user
-    @current_user ||= User.find_by(session_token: session['user_session_token'])
+  def user
+    @user ||= User.find_by(id: params[:id])
   end
 end

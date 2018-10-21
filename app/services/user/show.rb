@@ -11,7 +11,7 @@ class User::Show
         email:        user.email,
         saved_tracks: saved_tracks,
       }
-    }.as_json
+    }
   end
 
   def saved_tracks
