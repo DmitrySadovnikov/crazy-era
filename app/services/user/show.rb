@@ -19,7 +19,8 @@ class User::Show
       {
         name:         track.name,
         href:         track.external_urls['spotify'],
-        artist_names: track.artists.map(&:name)
+        artist_names: track.artists.map(&:name),
+        preview_url:  track.preview_url
       }
     end
   end

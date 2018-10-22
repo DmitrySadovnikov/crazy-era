@@ -3,8 +3,10 @@ h1
   = user[:email]
 h1
   = 'Your last 20 tracks:'
-ul
-  - user[:saved_tracks].each do |track|
-    li
-      = link_to "#{track[:name]} by #{track[:artist_names].join(', ')}",
-              track[:href]
+table
+  tbody
+    - user[:saved_tracks].each do |track|
+      tr
+        td = audio_tag track[:preview_url], controls: true, autoplay: false
+        td = link_to track[:name], track[:href]
+        td = track[:artist_names].join(', ')
