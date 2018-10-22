@@ -21,7 +21,7 @@ class UsersController < ActionController::Base
 
   def show
     render template: 'users/show',
-           locals:   User::Show.new(user: user).call
+           locals:   User::Show.new(user: user, search_by_lyric: params[:search_by_lyric]).call
   end
 
   def user

@@ -1,12 +1,16 @@
 h1
   = 'Your email: '
   = user[:email]
+= form_tag user_path(user[:id]), method: 'get' do
+  = text_field_tag :search_by_lyric, params[:search_by_lyric],
+          placeholder: 'Search by lyric'
+  = submit_tag 'search'
 h1
   = 'Your last 20 tracks:'
 table
   tbody
     - user[:saved_tracks].each do |track|
       tr
-        td = audio_tag track[:preview_url], controls: true, autoplay: false
+        td = audio_tag track[:preview_url], controls: true, autoplay: false if track[:preview_url]
         td = link_to track[:name], track[:href]
         td = track[:artist_names].join(', ')
